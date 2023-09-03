@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200mm" height="200mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20000 20000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="602" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="DejaVu Sans Mono">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="3" horiz-adv-x="602"><path d="M268.141 325.964l-77.0975 0 0 126.984 77.0975 0c35.856,0 63.6338,7.08617 83.3333,21.2585 19.6995,14.1723 29.4785,34.1553 29.4785,59.8073 0,27.2109 -9.77891,48.1859 -29.4785,63.3503 -19.6995,15.1644 -47.4773,22.6757 -83.3333,22.6757 -27.3526,0 -56.6893,-3.40136 -88.0102,-10.2041 -31.1791,-6.80272 -63.6338,-16.8651 -97.0805,-29.9036l0 131.094c33.4467,9.92063 66.4683,17.5737 99.0646,22.9592 32.5964,5.38549 63.7755,8.07823 93.6791,8.07823 76.8141,0 136.763,-16.8651 179.705,-50.4535 42.9422,-33.4467 64.4841,-79.6485 64.4841,-138.605 0,-43.2256 -12.3299,-78.6565 -36.9898,-106.151 -24.8016,-27.4943 -59.949,-45.4932 -105.867,-53.8549 52.0125,-9.21202 91.5533,-29.7619 118.906,-62.3583 27.3526,-32.3129 40.958,-74.8299 40.958,-127.409 0,-70.72 -22.6757,-124.575 -67.8855,-161.565 -45.2098,-37.1315 -110.969,-55.6973 -197.279,-55.6973 -36.7063,0 -72.8458,2.97619 -108.56,9.21202 -35.5726,6.0941 -69.7279,15.1644 -102.324,26.7857l0 134.07c30.754,-15.3061 63.7755,-27.0692 99.2063,-35.0057 35.5726,-8.07823 72.8458,-12.0465 111.82,-12.0465 39.2574,0 70.0113,9.07029 92.8288,27.0692 22.8175,18.1406 34.1553,42.2336 34.1553,72.9875 0,37.2732 -11.3379,66.1848 -34.1553,86.4512 -22.8175,20.4082 -54.9887,30.4705 -96.6553,30.4705z"/></glyph>
+   <glyph unicode="c" horiz-adv-x="602"><path d="M517.999 28.0612c-23.9512,-14.0306 -50.0283,-24.5181 -77.6644,-31.6043 -27.6361,-6.94444 -57.398,-10.4875 -89.2857,-10.4875 -84.3254,0 -150.227,25.3685 -197.704,76.2472 -47.4773,50.5952 -71.2868,120.89 -71.2868,210.743 0,90.2778 23.9512,160.714 71.712,211.735 47.9025,50.737 113.946,76.2472 198.271,76.2472 29.3367,0 57.398,-3.40136 84.6088,-10.2041 27.2109,-6.94444 54.28,-17.432 81.3492,-31.746l0 -130.952c-20.8333,17.9989 -43.6508,31.746 -68.7358,41.5249 -24.8016,9.63719 -50.5952,14.4558 -77.2392,14.4558 -46.4853,0 -82.3413,-14.881 -107.426,-44.5011 -25.085,-29.6202 -37.5567,-71.8537 -37.5567,-126.559 0,-54.5635 12.4717,-96.6553 37.5567,-125.992 25.085,-29.3367 60.941,-43.9342 107.426,-43.9342 27.6361,0 53.4297,4.67687 77.6644,13.7472 23.9512,9.35374 46.7687,23.3844 68.3107,42.2336l0 -130.952z"/></glyph>
+   <glyph unicode="n" horiz-adv-x="602"><path d="M522.959 355.159l0 -355.159 -142.007 0 0 333.192c0,39.6825 -5.66893,68.1689 -16.7234,85.1757 -11.3379,17.1485 -29.7619,25.6519 -55.1304,25.6519 -25.7937,0 -45.9184,-11.4796 -60.7993,-34.7222 -14.7392,-23.1009 -22.2506,-55.1304 -22.2506,-96.0884l0 -313.209 -142.007 0 0 547.052 142.007 0 0 -82.0578c10.0624,30.1871 27.3526,53.5714 51.729,70.1531 24.3764,16.5816 53.8549,24.8016 88.4354,24.8016 51.729,0 90.8447,-17.1485 117.347,-51.4456 26.2188,-34.2971 39.3991,-85.4592 39.3991,-153.345z"/></glyph>
+   <glyph unicode="v" horiz-adv-x="602"><path d="M563.067 547.052l-173.895 -547.052 -176.304 0 -173.895 547.052 144.983 0 116.922 -426.871 117.063 426.871 145.125 0z"/></glyph>
+   <glyph unicode="s" horiz-adv-x="602"><path d="M483.985 530.045l0 -125c-26.3605,16.7234 -53.8549,29.4785 -82.3413,38.1236 -28.4864,8.5034 -57.1145,12.8968 -85.7426,12.8968 -32.0295,0 -56.2642,-4.67687 -72.4206,-13.8889 -16.2982,-9.35374 -24.5181,-22.9592 -24.5181,-41.2415 0,-25.9354 34.8639,-47.0522 104.592,-63.4921l5.24376 -1.27551 41.0998 -9.77891c52.1542,-12.3299 90.4195,-32.4546 114.654,-59.949 24.2347,-27.4943 36.4229,-64.6259 36.4229,-111.395 0,-56.4059 -18.424,-98.7812 -55.2721,-126.842 -36.9898,-28.2029 -92.5454,-42.2336 -166.667,-42.2336 -32.8798,0 -66.7517,2.83447 -101.049,8.5034 -34.4388,5.66893 -69.4444,14.1723 -105.017,25.5102l0 125c31.4626,-17.8571 63.6338,-31.4626 96.3719,-40.8163 32.5964,-9.49546 64.2007,-14.1723 94.8129,-14.1723 33.4467,0 58.8152,4.81859 75.9637,14.7392 17.1485,9.63719 25.9354,23.8095 25.9354,42.2336 0,18.424 -6.23583,32.3129 -18.424,42.0918 -12.1882,9.77891 -41.0998,20.1247 -87.1599,31.3209l-39.5408 8.64512c-54.5635,12.4717 -94.3878,31.746 -119.473,58.1066 -24.9433,26.3605 -37.415,61.6497 -37.415,105.867 0,52.8628 18.9909,93.8209 57.1145,123.016 37.9819,29.3367 91.695,43.9342 160.714,43.9342 30.8957,0 61.7914,-2.4093 92.4036,-7.51134 30.8957,-4.96032 60.6576,-12.4717 89.7109,-22.3923z"/></glyph>
+   <glyph unicode="g" horiz-adv-x="602"><path d="M392.007 282.313c0,48.8946 -9.35374,88.0102 -27.7778,117.489 -18.5658,29.4785 -42.9422,44.2177 -73.271,44.2177 -29.7619,0 -53.9966,-14.7392 -72.4206,-44.076 -18.424,-29.3367 -27.4943,-68.4524 -27.4943,-117.63 0,-49.6032 9.07029,-89.0023 27.4943,-118.339 18.424,-29.3367 42.6587,-43.9342 72.4206,-43.9342 30.3288,0 54.7052,14.5975 73.271,44.076 18.424,29.6202 27.7778,68.8776 27.7778,118.197zm142.999 -241.213c0,-87.585 -19.8413,-150.794 -59.3821,-189.768 -39.3991,-38.8322 -103.6,-58.39 -192.46,-58.39 -30.0454,0 -59.5238,2.26757 -88.8605,6.661 -29.3367,4.39342 -58.9569,11.1961 -89.2857,20.4082l0 130.952c26.9274,-15.0227 54.4218,-25.9354 82.483,-33.1633 28.0612,-7.08617 56.8311,-10.771 86.3095,-10.771 40.3912,0 70.1531,9.49546 89.4274,28.6281 19.1327,18.9909 28.7698,48.8946 28.7698,89.2857l0 59.0986c-14.0306,-26.0771 -32.4546,-45.3515 -55.6973,-58.1066 -22.9592,-12.6134 -51.1621,-18.9909 -84.3254,-18.9909 -62.5,0 -112.103,24.3764 -148.81,73.271 -36.8481,48.7528 -55.1304,115.079 -55.1304,198.554 0,86.7347 18.2823,155.329 55.1304,206.066 36.7063,50.8787 86.0261,76.1054 147.817,76.1054 31.1791,0 58.9569,-7.22789 83.4751,-21.9671 24.3764,-14.4558 43.5091,-35.1474 57.5397,-61.7914l0 69.8696 142.999 0 0 -505.952z"/></glyph>
+   <glyph unicode="d" horiz-adv-x="602"><path d="M386.054 469.388l0 290.675 142.999 0 0 -760.062 -142.999 0 0 81.0658c-15.4478,-31.6043 -35.0057,-55.2721 -59.3821,-71.2868 -24.2347,-15.7313 -52.7211,-23.8095 -85.4592,-23.8095 -62.5,0 -111.111,25.085 -145.55,75.2551 -34.4388,50.1701 -51.729,120.607 -51.729,211.735 0,92.5454 17.5737,163.407 52.5794,212.868 34.8639,49.4615 84.7506,74.1213 149.518,74.1213 29.3367,0 55.4138,-7.51134 78.7982,-22.6757 23.1009,-15.1644 43.6508,-37.8401 61.2245,-67.8855zm-199.121 -197.421c0,-52.5794 8.92857,-94.1043 26.3605,-124.008 17.5737,-29.9036 41.8084,-44.9263 72.7041,-44.9263 30.8957,0 55.2721,15.0227 73.1293,44.9263 17.8571,29.9036 26.9274,71.4286 26.9274,124.008 0,52.8628 -9.07029,94.246 -26.9274,124.008 -17.8571,30.0454 -42.2336,45.068 -73.1293,45.068 -30.8957,0 -55.1304,-15.0227 -72.7041,-45.068 -17.432,-29.7619 -26.3605,-71.1451 -26.3605,-124.008z"/></glyph>
+   <glyph unicode="r" horiz-adv-x="602"><path d="M561.933 395.975c-15.5896,14.3141 -33.8719,25.2268 -54.9887,32.3129 -20.9751,7.22789 -43.9342,10.771 -69.161,10.771 -30.1871,0 -56.5476,-5.38549 -79.2234,-15.873 -22.6757,-10.6293 -40.2494,-26.0771 -52.5794,-46.2018 -7.79478,-12.3299 -13.322,-27.3526 -16.2982,-44.9263 -3.11791,-17.5737 -4.67687,-44.2177 -4.67687,-80.0737l0 -251.984 -142.999 0 0 547.052 142.999 0 0 -85.1757c14.0306,31.3209 35.4308,55.4138 64.4841,72.4206 29.0533,17.1485 62.7834,25.6519 101.616,25.6519 19.5578,0 38.6905,-2.26757 57.398,-7.08617 18.7075,-4.67687 36.5646,-11.763 53.4297,-20.8333l0 -136.054z"/></glyph>
+   <glyph unicode="a" horiz-adv-x="602"><path d="M341.837 256.944c-53.5714,0 -90.8447,-6.80272 -111.961,-20.4082 -21.2585,-13.7472 -31.8878,-37.2732 -31.8878,-70.4365 0,-24.8016 7.36961,-44.5011 21.9671,-59.0986 14.7392,-14.5975 34.5805,-21.9671 59.6655,-21.9671 37.8401,0 67.1769,14.3141 88.0102,42.8005 20.8333,28.4864 31.3209,68.3107 31.3209,119.331l0 9.77891 -57.1145 0zm199.121 55.2721l0 -312.217 -142.007 0 0 60.941c-17.1485,-23.9512 -39.2574,-42.3753 -66.3265,-55.4138 -26.9274,-13.0385 -56.8311,-19.5578 -89.2857,-19.5578 -62.2166,0 -110.686,16.5816 -145.408,49.3197 -34.5805,32.8798 -51.8707,78.9399 -51.8707,137.755 0,63.7755 20.5499,110.969 61.9331,141.298 41.3832,30.4705 105.159,45.6349 191.61,45.6349l99.3481 0 0 23.8095c0,23.2426 -8.21995,40.5329 -25.085,52.4376 -16.8651,11.763 -41.5249,17.7154 -74.263,17.7154 -34.1553,0 -67.0351,-4.2517 -99.2063,-12.7551 -32.0295,-8.64512 -65.6179,-22.3923 -100.34,-41.2415l0 122.024c31.4626,13.0385 63.6338,22.534 96.0884,28.7698 32.7381,6.0941 67.1769,9.21202 103.458,9.21202 89.0023,0 151.361,-17.9989 187.358,-54.1383 35.9977,-36.1395 53.9966,-100.624 53.9966,-193.594z"/></glyph>
+   <glyph unicode="l" horiz-adv-x="602"><path d="M189.059 228.175l0 421.769 -145.125 0 0 110.119 288.124 0 0 -531.888c0,-42.9422 6.661,-73.271 19.983,-91.4116 13.322,-17.7154 35.9977,-26.7857 67.7438,-26.7857l114.229 0 0 -109.977 -154.195 0c-68.0272,0 -116.78,17.7154 -146.542,52.8628 -29.4785,35.1474 -44.2177,93.5374 -44.2177,175.312z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"DejaVu Sans Mono";src:url("#FontID0") format(svg)}
+    .str0 {stroke:black;stroke-width:17.64;stroke-linecap:round;stroke-linejoin:round}
+    .str2 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:aqua;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
+    .fnt0 {font-weight:bold;font-size:70.56;font-family:'DejaVu Sans Mono'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="-500,19500 500,19500 500,20500 -500,20500 "/>
+  <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 1474.97 20342.5)" width="97" height="97"/>
+  <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 1474.97 20215.5)" width="97" height="97"/>
+  <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 1474.97 20088.5)" width="97" height="97"/>
+  <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 1474.97 19961.5)" width="97" height="97"/>
+  <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 1474.97 19834.5)" width="97" height="97"/>
+  <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 1474.97 19707.5)" width="97" height="97"/>
+  <polygon class="fil0 str0" points="1436,20381 1436,19619 1563,19619 1563,20381 "/>
+  <rect class="fil0 str0" x="-125" y="19875" width="250" height="250"/>
+  <text x="1637" y="19702"  class="fil1 fnt0">gnd</text>
+  <text x="1637" y="19829"  class="fil1 fnt0">3v3</text>
+  <text x="1637" y="19956"  class="fil1 fnt0">sda</text>
+  <text x="1637" y="20083"  class="fil1 fnt0">scl</text>
+  <text x="1636" y="20209"  class="fil1 fnt0">cs</text>
+  <text x="1637" y="20337"  class="fil1 fnt0">adr</text>
+  <rect class="fil0 str0" x="1720" y="19760" width="160" height="80"/>
+  <rect class="fil0 str0" x="-80" y="19760" width="160" height="80"/>
+  <rect class="fil0 str0" x="1720" y="20160" width="160" height="80"/>
+  <rect class="fil0 str0" x="1720" y="20260" width="160" height="80"/>
+  <rect class="fil0 str0" transform="matrix(1.01158E-013 -3.81953 1.90976 5.05792E-014 1910 19830)" width="42" height="42"/>
+  <rect class="fil0 str0" transform="matrix(1.01158E-013 -3.81953 1.90976 5.05792E-014 1910 20330)" width="42" height="42"/>
+  <circle class="fil0 str0" cx="2038" cy="20000" r="75"/>
+  <circle class="fil0 str1" cx="-30000" cy="20000" r="300"/>
+  <circle class="fil0 str1" cx="-29250" cy="20000" r="150"/>
+  <circle class="fil0 str1" cx="-30000" cy="20750" r="150"/>
+  <circle class="fil0 str1" cx="-30000" cy="19250" r="150"/>
+  <g id="_874074272">
+   <g>
+    <path class="fil0 str1" d="M-32200 6700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
+    <g>
+     <circle class="fil0 str1" cx="-30000" cy="5000" r="300"/>
+     <circle class="fil0 str1" cx="-30000" cy="3500" r="300"/>
+     <circle class="fil0 str1" cx="-30000" cy="6500" r="300"/>
+     <circle class="fil0 str1" cx="-31500" cy="5000" r="300"/>
+     <circle class="fil0 str1" cx="-31500" cy="3500" r="300"/>
+     <circle class="fil0 str1" cx="-31500" cy="6500" r="300"/>
+     <circle class="fil0 str1" cx="-28500" cy="5000" r="300"/>
+     <circle class="fil0 str1" cx="-28500" cy="3500" r="300"/>
+     <circle class="fil0 str1" cx="-28500" cy="6500" r="300"/>
+    </g>
+   </g>
+   <circle class="fil0 str1" cx="-30750" cy="6500" r="150"/>
+   <circle class="fil0 str1" cx="-29250" cy="6500" r="150"/>
+   <circle class="fil0 str1" cx="-30750" cy="5000" r="150"/>
+   <circle class="fil0 str1" cx="-29250" cy="5000" r="150"/>
+   <circle class="fil0 str1" cx="-30750" cy="3500" r="150"/>
+   <circle class="fil0 str1" cx="-29250" cy="3500" r="150"/>
+   <circle class="fil0 str1" cx="-31500" cy="5750" r="150"/>
+   <circle class="fil0 str1" cx="-30000" cy="5750" r="150"/>
+   <circle class="fil0 str1" cx="-28500" cy="5750" r="150"/>
+   <circle class="fil0 str1" cx="-31500" cy="4250" r="150"/>
+   <circle class="fil0 str1" cx="-30000" cy="4250" r="150"/>
+   <circle class="fil0 str1" cx="-28500" cy="4250" r="150"/>
+  </g>
+  <path class="fil0 str1" d="M-32000 20750l0 -1500c0,-276 224,-500 500,-500l3000 0c276,0 500,224 500,500l0 1500c0,276 -224,500 -500,500l-3000 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str1" cx="-31500" cy="20750" r="150"/>
+  <circle class="fil0 str1" cx="-28500" cy="20750" r="150"/>
+  <circle class="fil0 str1" cx="-31500" cy="19250" r="150"/>
+  <circle class="fil0 str1" cx="-28500" cy="19250" r="150"/>
+  <g id="_874061568">
+   <g>
+    <path class="fil0 str1" d="M-32200 36700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
+    <g>
+     <circle class="fil0 str1" cx="-30000" cy="35000" r="300"/>
+     <circle class="fil0 str1" cx="-30000" cy="33500" r="300"/>
+     <circle class="fil0 str1" cx="-30000" cy="36500" r="300"/>
+     <circle class="fil0 str1" cx="-31500" cy="35000" r="300"/>
+     <circle class="fil0 str1" cx="-31500" cy="33500" r="300"/>
+     <circle class="fil0 str1" cx="-31500" cy="36500" r="300"/>
+     <circle class="fil0 str1" cx="-28500" cy="35000" r="300"/>
+     <circle class="fil0 str1" cx="-28500" cy="33500" r="300"/>
+     <circle class="fil0 str1" cx="-28500" cy="36500" r="300"/>
+    </g>
+   </g>
+   <circle class="fil0 str1" cx="-30750" cy="36500" r="150"/>
+   <circle class="fil0 str1" cx="-29250" cy="36500" r="150"/>
+   <circle class="fil0 str1" cx="-30750" cy="35000" r="150"/>
+   <circle class="fil0 str1" cx="-29250" cy="35000" r="150"/>
+   <circle class="fil0 str1" cx="-30750" cy="33500" r="150"/>
+   <circle class="fil0 str1" cx="-29250" cy="33500" r="150"/>
+   <circle class="fil0 str1" cx="-31500" cy="35750" r="150"/>
+   <circle class="fil0 str1" cx="-30000" cy="35750" r="150"/>
+   <circle class="fil0 str1" cx="-28500" cy="35750" r="150"/>
+   <circle class="fil0 str1" cx="-31500" cy="34250" r="150"/>
+   <circle class="fil0 str1" cx="-30000" cy="34250" r="150"/>
+   <circle class="fil0 str1" cx="-28500" cy="34250" r="150"/>
+  </g>
+  <path class="fil0 str1" d="M-32200 12700l0 -1900c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 1900c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str1" cx="-31500" cy="12500" r="300"/>
+  <circle class="fil0 str1" cx="-28500" cy="12500" r="300"/>
+  <circle class="fil0 str1" cx="-31500" cy="11000" r="300"/>
+  <circle class="fil0 str1" cx="-28500" cy="11000" r="300"/>
+  <circle class="fil0 str1" cx="-31500" cy="19250" r="500"/>
+  <circle class="fil0 str1" cx="-28500" cy="20750" r="500"/>
+  <circle class="fil0 str1" cx="-31500" cy="20750" r="500"/>
+  <circle class="fil0 str1" cx="-28500" cy="19250" r="500"/>
+  <g id="_874052512">
+   <rect class="fil0 str2" x="-30050" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30304" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30558" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30812" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31066" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31320" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29796" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29542" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29288" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29034" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-28780" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-28526" y="18450" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31574" y="18450" width="100" height="100"/>
+  </g>
+  <g id="_874046816">
+   <rect class="fil0 str2" x="-30050" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30304" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30558" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30812" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31066" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31320" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29796" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29542" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29288" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29034" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-28780" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-28526" y="23434" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31574" y="23434" width="100" height="100"/>
+  </g>
+  <g id="_874040672">
+   <rect class="fil0 str2" x="-30050" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30304" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30558" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30812" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31066" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31320" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29796" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29542" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29288" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29034" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-28780" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-28526" y="25466" width="100" height="100"/>
+   <rect class="fil0 str2" x="-31574" y="25466" width="100" height="100"/>
+  </g>
+  <rect class="fil0 str2" x="-29415" y="20966" width="100" height="100"/>
+  <rect class="fil0 str2" x="-29669" y="20966" width="100" height="100"/>
+  <rect class="fil0 str2" x="-29923" y="20966" width="100" height="100"/>
+  <rect class="fil0 str2" x="-30177" y="20966" width="100" height="100"/>
+  <rect class="fil0 str2" x="-30431" y="20966" width="100" height="100"/>
+  <rect class="fil0 str2" x="-30685" y="20966" width="100" height="100"/>
+  <g id="_874035840">
+   <circle class="fil0 str1" cx="-31500" cy="19813" r="150"/>
+   <circle class="fil0 str1" cx="-31500" cy="20188" r="150"/>
+   <line class="fil0 str1" x1="-31650" y1="19813" x2="-31650" y2= "20188" />
+   <line class="fil0 str1" x1="-31350" y1="19813" x2="-31350" y2= "20188" />
+  </g>
+  <g id="_874033664">
+   <circle class="fil0 str1" cx="-28500" cy="19813" r="150"/>
+   <circle class="fil0 str1" cx="-28500" cy="20188" r="150"/>
+   <line class="fil0 str1" x1="-28650" y1="19813" x2="-28650" y2= "20188" />
+   <line class="fil0 str1" x1="-28350" y1="19813" x2="-28350" y2= "20188" />
+  </g>
+  <polygon class="fil0 str2" points="-41500,19150 -39500,19150 -39500,20850 -41500,20850 "/>
+  <g id="_874030432">
+   <rect class="fil0 str2" x="-29415" y="18934" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29669" y="18934" width="100" height="100"/>
+   <rect class="fil0 str2" x="-29923" y="18934" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30177" y="18934" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30431" y="18934" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30685" y="18934" width="100" height="100"/>
+   <rect class="fil0 str2" x="-30762" y="18857" width="1524" height="254"/>
+  </g>
+  <rect class="fil0 str2" x="-30762" y="20889" width="1524" height="254"/>
+  <g id="_874023648">
+   <g>
+    <rect class="fil0 str0" x="-29961" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-30088" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-30215" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-30342" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-30469" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-30596" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-29834" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-29707" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-29580" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-29453" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-29326" y="16975" width="50" height="50"/>
+    <rect class="fil0 str0" x="-30723" y="16975" width="50" height="50"/>
+   </g>
+   <rect class="fil0 str2" x="-30762" y="16936" width="1524" height="127"/>
+  </g>
+  <polygon class="fil0 str2" points="-37000,19150 -35000,19150 -35000,20850 -37000,20850 "/>
+  <g id="_874018976">
+   <g>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19961.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20088.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20215.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20342.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20469.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20596.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19834.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19707.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19580.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19453.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19326.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20723.5)" width="97" height="97"/>
+   </g>
+   <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -36825.5 20762)" width="97" height="97"/>
+  </g>
+  <g id="_874079520">
+   <g>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19961.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20088.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20215.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20342.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20469.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20596.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19834.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19707.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19580.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19453.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19326.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20723.5)" width="97" height="97"/>
+   </g>
+   <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -35301.5 20762)" width="97" height="97"/>
+  </g>
+  <g id="_873188208">
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 19415)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 19669)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 19923)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 20177)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 20431)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 20685)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 2.61829 6.93441E-014 -41389 20762)" width="97" height="97"/>
+  </g>
+  <g id="_873184816">
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 19415)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 19669)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 19923)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 20177)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 20431)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 20685)" width="97" height="97"/>
+   <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 2.61829 6.93441E-014 -39865 20762)" width="97" height="97"/>
+  </g>
+  <polygon class="fil0 str2" points="-31000,19150 -29000,19150 -29000,20850 -31000,20850 "/>
+  <g id="_873178832">
+   <g>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19961.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20088.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20215.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20342.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20469.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20596.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19834.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19707.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19580.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19453.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19326.5)" width="97" height="97"/>
+    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20723.5)" width="97" height="97"/>
+   </g>
+   <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -30825.5 20762)" width="97" height="97"/>
+  </g>
+  <g id="_873209168">
+   <polygon class="fil0 str2" points="-15064,19600 -14364,19600 -14364,20400 -15064,20400 "/>
+   <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 20342.5)" width="97" height="97"/>
+   <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 20215.5)" width="97" height="97"/>
+   <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 20088.5)" width="97" height="97"/>
+   <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 19961.5)" width="97" height="97"/>
+   <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 19834.5)" width="97" height="97"/>
+   <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 19707.5)" width="97" height="97"/>
+   <polygon class="fil0 str2" points="-15064,20381 -15064,19619 -14937,19619 -14937,20381 "/>
+   <rect class="fil0 str0" x="-14825" y="19875" width="250" height="250"/>
+   <text x="-14863" y="19702"  class="fil1 fnt0">gnd</text>
+   <text x="-14863" y="19829"  class="fil1 fnt0">3v3</text>
+   <text x="-14863" y="19956"  class="fil1 fnt0">sda</text>
+   <text x="-14863" y="20083"  class="fil1 fnt0">scl</text>
+   <text x="-14864" y="20209"  class="fil1 fnt0">cs</text>
+   <text x="-14863" y="20337"  class="fil1 fnt0">adr</text>
+   <rect class="fil0 str0" x="-14780" y="19760" width="160" height="80"/>
+   <rect class="fil0 str0" x="-14780" y="19660" width="160" height="80"/>
+   <rect class="fil0 str0" x="-14780" y="20160" width="160" height="80"/>
+   <rect class="fil0 str0" x="-14780" y="20260" width="160" height="80"/>
+   <rect class="fil0 str0" transform="matrix(1.01158E-013 -3.81953 1.90976 5.05792E-014 -14590 19830)" width="42" height="42"/>
+   <rect class="fil0 str0" transform="matrix(1.01158E-013 -3.81953 1.90976 5.05792E-014 -14590 20330)" width="42" height="42"/>
+   <circle class="fil0 str2" cx="-14463" cy="20000" r="75"/>
+  </g>
+  <rect class="fil0 str0" x="-80" y="20160" width="160" height="80"/>
+  <rect class="fil0 str0" transform="matrix(1.01158E-013 -3.81953 1.90976 5.05792E-014 160 20080)" width="42" height="42"/>
+  <circle class="fil0 str2" cy="19600" r="50"/>
+  <circle class="fil0 str2" cx="-200" cy="19600" r="50"/>
+  <circle class="fil0 str2" cx="-400" cy="19600" r="50"/>
+  <circle class="fil0 str2" cx="200" cy="19600" r="50"/>
+  <circle class="fil0 str2" cx="400" cy="19600" r="50"/>
+  <circle class="fil0 str2" cy="20400" r="50"/>
+  <circle class="fil0 str2" cx="-200" cy="20400" r="50"/>
+  <circle class="fil0 str2" cx="-400" cy="20400" r="50"/>
+  <circle class="fil0 str2" cx="200" cy="20400" r="50"/>
+  <circle class="fil0 str2" cx="400" cy="20400" r="50"/>
+ </g>
+</svg>

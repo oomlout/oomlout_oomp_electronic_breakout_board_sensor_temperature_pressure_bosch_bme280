@@ -1,0 +1,8 @@
+### Footprint positions - created on Sun Sep  3 17:05:44 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                                                                     PosX       PosY       Rot  Side
+J1        h4psmra           h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle     0.0000     1.0000  -90.0000  bottom
+U2        insoic14wi2cheli  insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter        0.0000     0.0000  180.0000  bottom
+## End
