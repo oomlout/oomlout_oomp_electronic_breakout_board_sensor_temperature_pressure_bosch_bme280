@@ -9,7 +9,7 @@
 ![](kicad/current_version/working/working_3d_600.png) 
 ![](kicad/current_version/working/working_3d_front_600.png)  
 ![](kicad/current_version/working/working_3d_back_600.png)  
-![](kicad/current_version/working/working_600.png) 
+![](kicad/current_version/working/working_600.png)  
 [board (pdf)](kicad/current_version/working/working.pdf)  
 
 ## corel working
