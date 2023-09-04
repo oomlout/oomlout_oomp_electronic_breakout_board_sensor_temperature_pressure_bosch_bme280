@@ -1,0 +1,13 @@
+### Footprint positions - created on Sun Sep  3 22:45:56 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                                                                       PosX       PosY       Rot  Side
+C1        c6nf100   c6nf100_electronic_capacitor_0603_100_nano_farad                                           44.9710   -24.3840  180.0000  top
+C2        c6nf100   c6nf100_electronic_capacitor_0603_100_nano_farad                                           44.9710   -25.9080  180.0000  top
+J2        h1d276p   h1d276p_electronic_header_1d27_mm_6_pin                                                    41.6560   -24.3840    0.0000  top
+R1        r6o472    r6o472_electronic_resistor_0603_4700_ohm                                                   47.7520   -28.4480  -90.0000  top
+R2        r6o472    r6o472_electronic_resistor_0603_4700_ohm                                                   47.7520   -25.4000  -90.0000  top
+R3        r6o472    r6o472_electronic_resistor_0603_4700_ohm                                                   45.2120   -30.9880    0.0000  top
+U1        isn280    isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280    45.2530   -28.4570    0.0000  top
+## End
