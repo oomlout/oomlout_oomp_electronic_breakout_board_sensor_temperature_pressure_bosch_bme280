@@ -61,7 +61,7 @@ viewBox="0 0 20000 20000"
   <circle class="fil0 str1" cx="-29250" cy="20000" r="150"/>
   <circle class="fil0 str1" cx="-30000" cy="20750" r="150"/>
   <circle class="fil0 str1" cx="-30000" cy="19250" r="150"/>
-  <g id="_831284944">
+  <g id="_833045888">
    <g>
     <path class="fil0 str1" d="M-32200 6700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
     <g>
@@ -94,7 +94,7 @@ viewBox="0 0 20000 20000"
   <circle class="fil0 str1" cx="-28500" cy="20750" r="150"/>
   <circle class="fil0 str1" cx="-31500" cy="19250" r="150"/>
   <circle class="fil0 str1" cx="-28500" cy="19250" r="150"/>
-  <g id="_830976064">
+  <g id="_833033792">
    <g>
     <path class="fil0 str1" d="M-32200 36700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
     <g>
@@ -131,7 +131,7 @@ viewBox="0 0 20000 20000"
   <circle class="fil0 str1" cx="-28500" cy="20750" r="500"/>
   <circle class="fil0 str1" cx="-31500" cy="20750" r="500"/>
   <circle class="fil0 str1" cx="-28500" cy="19250" r="500"/>
-  <g id="_830984960">
+  <g id="_833026144">
    <rect class="fil0 str2" x="-30050" y="18450" width="100" height="100"/>
    <rect class="fil0 str2" x="-30304" y="18450" width="100" height="100"/>
    <rect class="fil0 str2" x="-30558" y="18450" width="100" height="100"/>
@@ -146,7 +146,7 @@ viewBox="0 0 20000 20000"
    <rect class="fil0 str2" x="-28526" y="18450" width="100" height="100"/>
    <rect class="fil0 str2" x="-31574" y="18450" width="100" height="100"/>
   </g>
-  <g id="_830979232">
+  <g id="_831644256">
    <rect class="fil0 str2" x="-30050" y="23434" width="100" height="100"/>
    <rect class="fil0 str2" x="-30304" y="23434" width="100" height="100"/>
    <rect class="fil0 str2" x="-30558" y="23434" width="100" height="100"/>
@@ -161,7 +161,7 @@ viewBox="0 0 20000 20000"
    <rect class="fil0 str2" x="-28526" y="23434" width="100" height="100"/>
    <rect class="fil0 str2" x="-31574" y="23434" width="100" height="100"/>
   </g>
-  <g id="_830973552">
+  <g id="_831640256">
    <rect class="fil0 str2" x="-30050" y="25466" width="100" height="100"/>
    <rect class="fil0 str2" x="-30304" y="25466" width="100" height="100"/>
    <rect class="fil0 str2" x="-30558" y="25466" width="100" height="100"/>
@@ -182,20 +182,20 @@ viewBox="0 0 20000 20000"
   <rect class="fil0 str2" x="-30177" y="20966" width="100" height="100"/>
   <rect class="fil0 str2" x="-30431" y="20966" width="100" height="100"/>
   <rect class="fil0 str2" x="-30685" y="20966" width="100" height="100"/>
-  <g id="_830968240">
+  <g id="_831635488">
    <circle class="fil0 str1" cx="-31500" cy="19813" r="150"/>
    <circle class="fil0 str1" cx="-31500" cy="20188" r="150"/>
    <line class="fil0 str1" x1="-31650" y1="19813" x2="-31650" y2= "20188" />
    <line class="fil0 str1" x1="-31350" y1="19813" x2="-31350" y2= "20188" />
   </g>
-  <g id="_830967280">
+  <g id="_831633952">
    <circle class="fil0 str1" cx="-28500" cy="19813" r="150"/>
    <circle class="fil0 str1" cx="-28500" cy="20188" r="150"/>
    <line class="fil0 str1" x1="-28650" y1="19813" x2="-28650" y2= "20188" />
    <line class="fil0 str1" x1="-28350" y1="19813" x2="-28350" y2= "20188" />
   </g>
   <polygon class="fil0 str2" points="-41500,19150 -39500,19150 -39500,20850 -41500,20850 "/>
-  <g id="_830961424">
+  <g id="_831629760">
    <rect class="fil0 str2" x="-29415" y="18934" width="100" height="100"/>
    <rect class="fil0 str2" x="-29669" y="18934" width="100" height="100"/>
    <rect class="fil0 str2" x="-29923" y="18934" width="100" height="100"/>
@@ -205,7 +205,7 @@ viewBox="0 0 20000 20000"
    <rect class="fil0 str2" x="-30762" y="18857" width="1524" height="254"/>
   </g>
   <rect class="fil0 str2" x="-30762" y="20889" width="1524" height="254"/>
-  <g id="_832403728">
+  <g id="_831625280">
    <g>
     <rect class="fil0 str0" x="-29961" y="16975" width="50" height="50"/>
     <rect class="fil0 str0" x="-30088" y="16975" width="50" height="50"/>
@@ -223,7 +223,7 @@ viewBox="0 0 20000 20000"
    <rect class="fil0 str2" x="-30762" y="16936" width="1524" height="127"/>
   </g>
   <polygon class="fil0 str2" points="-37000,19150 -35000,19150 -35000,20850 -37000,20850 "/>
-  <g id="_832398704">
+  <g id="_831616416">
    <g>
     <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 19961.5)" width="97" height="97"/>
     <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -36787 20088.5)" width="97" height="97"/>
@@ -240,7 +240,7 @@ viewBox="0 0 20000 20000"
    </g>
    <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -36825.5 20762)" width="97" height="97"/>
   </g>
-  <g id="_832393056">
+  <g id="_831610144">
    <g>
     <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 19961.5)" width="97" height="97"/>
     <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -35263 20088.5)" width="97" height="97"/>
@@ -257,7 +257,7 @@ viewBox="0 0 20000 20000"
    </g>
    <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -35301.5 20762)" width="97" height="97"/>
   </g>
-  <g id="_832390368">
+  <g id="_831609024">
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 19415)" width="97" height="97"/>
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 19669)" width="97" height="97"/>
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 19923)" width="97" height="97"/>
@@ -266,7 +266,7 @@ viewBox="0 0 20000 20000"
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -41312 20685)" width="97" height="97"/>
    <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 2.61829 6.93441E-014 -41389 20762)" width="97" height="97"/>
   </g>
-  <g id="_832386272">
+  <g id="_831603200">
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 19415)" width="97" height="97"/>
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 19669)" width="97" height="97"/>
    <rect class="fil0 str2" transform="matrix(2.73008E-014 -1.03082 1.03082 2.73008E-014 -39788 19923)" width="97" height="97"/>
@@ -276,7 +276,7 @@ viewBox="0 0 20000 20000"
    <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 2.61829 6.93441E-014 -39865 20762)" width="97" height="97"/>
   </g>
   <polygon class="fil0 str2" points="-31000,19150 -29000,19150 -29000,20850 -31000,20850 "/>
-  <g id="_830540832">
+  <g id="_831596832">
    <g>
     <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 19961.5)" width="97" height="97"/>
     <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -30787 20088.5)" width="97" height="97"/>
@@ -293,7 +293,7 @@ viewBox="0 0 20000 20000"
    </g>
    <rect class="fil0 str2" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -30825.5 20762)" width="97" height="97"/>
   </g>
-  <g id="_831373152">
+  <g id="_836163184">
    <polygon class="fil0 str2" points="-15064,19600 -14364,19600 -14364,20400 -15064,20400 "/>
    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 20342.5)" width="97" height="97"/>
    <rect class="fil0 str0" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -15025 20215.5)" width="97" height="97"/>
