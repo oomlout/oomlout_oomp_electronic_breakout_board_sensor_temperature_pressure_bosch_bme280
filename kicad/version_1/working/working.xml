@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\GH\oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280\kicad\version_1\working\working.kicad_sch</source>
+    <date>29/09/2023 12:04:51</date>
+    <tool>Eeschema 7.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>working.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>c6nf100</value>
+      <footprint>oomlout_oomp_part_footprints:c6nf100_electronic_capacitor_0603_100_nano_farad</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_capacitor_0603_100_nano_farad/datasheet.pdf</datasheet>
+      <libsource lib="" part="c6nf100_electronic_capacitor_0603_100_nano_farad_1" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be5bb923-7e03-40db-bdae-dbb11a164bcc</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>c6nf100</value>
+      <footprint>oomlout_oomp_part_footprints:c6nf100_electronic_capacitor_0603_100_nano_farad</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_capacitor_0603_100_nano_farad/datasheet.pdf</datasheet>
+      <libsource lib="" part="c6nf100_electronic_capacitor_0603_100_nano_farad_1" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf373b4b-938a-4487-8283-243ef1e32ad1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>h4psmra</value>
+      <footprint>oomlout_oomp_part_footprints:h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/datasheet.pdf</datasheet>
+      <libsource lib="oomlout_oomp_part_symbols" part="h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>412d57a2-1e11-4976-9c9c-d429a85de567</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>h1d276p</value>
+      <footprint>oomlout_oomp_part_footprints:h1d276p_electronic_header_1d27_mm_6_pin</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_header_1d27_mm_6_pin/datasheet.pdf</datasheet>
+      <libsource lib="oomlout_oomp_part_symbols" part="h1d276p_electronic_header_1d27_mm_6_pin" description="Generic connector, single row, 01x06, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x06, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84d983b0-caa3-4e92-a868-c0b1193c62a6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>r6o472</value>
+      <footprint>oomlout_oomp_part_footprints:r6o472_electronic_resistor_0603_4700_ohm</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_resistor_0603_4700_ohm/datasheet.pdf</datasheet>
+      <libsource lib="oomlout_oomp_part_symbols" part="r6o472_electronic_resistor_0603_4700_ohm" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07552534-d06d-4442-9b5c-bb4ade88f335</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>r6o472</value>
+      <footprint>oomlout_oomp_part_footprints:r6o472_electronic_resistor_0603_4700_ohm</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_resistor_0603_4700_ohm/datasheet.pdf</datasheet>
+      <libsource lib="oomlout_oomp_part_symbols" part="r6o472_electronic_resistor_0603_4700_ohm" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6e060be-d747-48ca-a2ef-27db9eddc54d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>r6o472</value>
+      <footprint>oomlout_oomp_part_footprints:r6o472_electronic_resistor_0603_4700_ohm</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_resistor_0603_4700_ohm/datasheet.pdf</datasheet>
+      <libsource lib="oomlout_oomp_part_symbols" part="r6o472_electronic_resistor_0603_4700_ohm" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b0d697-78e2-4acf-a566-0c421be3f8cc</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>isn280</value>
+      <footprint>oomlout_oomp_part_footprints:isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280</footprint>
+      <datasheet>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/datasheet.pdf</datasheet>
+      <libsource lib="oomlout_oomp_part_symbols" part="isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280" description="3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="working.kicad_sch"/>
+      <property name="ki_description" value="3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"/>
+      <property name="ki_keywords" value="Bosch pressure humidity temperature environment environmental measurement digital"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ffb67a-1dd5-40af-8405-74ce49cbf41f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="c6nf100_electronic_capacitor_0603_100_nano_farad_1">
+      <description>Unpolarized capacitor</description>
+      <docs>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_capacitor_0603_100_nano_farad/datasheet.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">c6nf100_electronic_capacitor_0603_100_nano_farad</field>
+        <field name="Footprint">oomlout_oomp_part_footprints:c6nf100_electronic_capacitor_0603_100_nano_farad</field>
+        <field name="Datasheet">https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_capacitor_0603_100_nano_farad/datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oomlout_oomp_part_symbols" part="h1d276p_electronic_header_1d27_mm_6_pin">
+      <description>Generic connector, single row, 01x06, script generated</description>
+      <docs>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_header_1d27_mm_6_pin/datasheet.pdf</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">h1d276p_electronic_header_1d27_mm_6_pin</field>
+        <field name="Footprint">oomlout_oomp_part_footprints:h1d276p_electronic_header_1d27_mm_6_pin</field>
+        <field name="Datasheet">https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_header_1d27_mm_6_pin/datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oomlout_oomp_part_symbols" part="h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/datasheet.pdf</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle</field>
+        <field name="Footprint">oomlout_oomp_part_footprints:h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle</field>
+        <field name="Datasheet">https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle/datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oomlout_oomp_part_symbols" part="isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280">
+      <description>3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8</description>
+      <docs>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/datasheet.pdf</docs>
+      <footprints>
+        <fp>*LGA*2.5x2.5mm*P0.65mm*Clockwise*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280</field>
+        <field name="Footprint">oomlout_oomp_part_footprints:isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280</field>
+        <field name="Datasheet">https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280/datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="CSB" type="input"/>
+        <pin num="3" name="SDI" type="bidirectional"/>
+        <pin num="4" name="SCK" type="input"/>
+        <pin num="5" name="SDO" type="bidirectional"/>
+        <pin num="6" name="VDDIO" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="oomlout_oomp_part_symbols" part="r6o472_electronic_resistor_0603_4700_ohm">
+      <description>Resistor</description>
+      <docs>https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_resistor_0603_4700_ohm/datasheet.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">r6o472_electronic_resistor_0603_4700_ohm</field>
+        <field name="Footprint">oomlout_oomp_part_footprints:r6o472_electronic_resistor_0603_4700_ohm</field>
+        <field name="Datasheet">https://github.com/oomlout/oomlout_oomp_v3/parts/electronic_resistor_0603_4700_ohm/datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="CSB" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="/address">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SDO" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/cs_3v3">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="4" name="/scl_3v3">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="5" name="/sda_3v3">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="SDI" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+    </net>
+  </nets>
+</export>

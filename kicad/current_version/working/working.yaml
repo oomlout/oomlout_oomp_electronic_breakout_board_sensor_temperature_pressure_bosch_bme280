@@ -1,0 +1,168 @@
+bom:
+- Id: '1'
+  Designator: C2,C1
+  Footprint: c6nf100_electronic_capacitor_0603_100_nano_farad
+  Quantity: '2'
+  Designation: c6nf100
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '2'
+  Designator: R3
+  Footprint: r6o472_electronic_resistor_0603_4700_ohm
+  Quantity: '1'
+  Designation: r6o472
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '3'
+  Designator: U1
+  Footprint: isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+  Quantity: '1'
+  Designation: isn280
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '4'
+  Designator: J1
+  Footprint: h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+  Quantity: '1'
+  Designation: h4psmra
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '5'
+  Designator: U2
+  Footprint: insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  Quantity: '1'
+  Designation: insoic14wi2cheli
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+bom_markdown: "| Id | Designator | Footprint | Quantity | Designation | Supplier and\
+  \ ref |  | None | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| 1 | C2,C1\
+  \ | c6nf100_electronic_capacitor_0603_100_nano_farad | 2 | c6nf100 |  |  | ['']\
+  \ | \n| 2 | R3 | r6o472_electronic_resistor_0603_4700_ohm | 1 | r6o472 |  |  | ['']\
+  \ | \n| 3 | U1 | isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280\
+  \ | 1 | isn280 |  |  | [''] | \n| 4 | J1 | h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle\
+  \ | 1 | h4psmra |  |  | [''] | \n| 5 | U2 | insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter\
+  \ | 1 | insoic14wi2cheli |  |  | [''] | \n"
+bom_schematic:
+- Cmp name: c6nf100_electronic_capacitor_0603_100_nano_farad_1
+  DNP: ''
+  Description: Unpolarized capacitor
+  Footprint: oomlout_oomp_part_footprints:c6nf100_electronic_capacitor_0603_100_nano_farad
+  Qnty: '2'
+  Ref: C1, C2
+  Value: c6nf100
+  Vendor: ''
+- Cmp name: h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+  DNP: ''
+  Description: Generic connector, single row, 01x04, script generated
+  Footprint: oomlout_oomp_part_footprints:h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+  Qnty: '1'
+  Ref: J1
+  Value: h4psmra
+  Vendor: ''
+- Cmp name: r6o472_electronic_resistor_0603_4700_ohm
+  DNP: ''
+  Description: Resistor
+  Footprint: oomlout_oomp_part_footprints:r6o472_electronic_resistor_0603_4700_ohm
+  Qnty: '1'
+  Ref: R3
+  Value: r6o472
+  Vendor: ''
+- Cmp name: isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+  DNP: ''
+  Description: 3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface,
+    1.71-3.6V, LGA-8
+  Footprint: oomlout_oomp_part_footprints:isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+  Qnty: '1'
+  Ref: U1
+  Value: isn280
+  Vendor: ''
+- Cmp name: insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  DNP: ''
+  Description: Generic connector, single row, 01x14, script generated
+  Footprint: oomlout_oomp_part_footprints:insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  Qnty: '1'
+  Ref: U2
+  Value: insoic14wi2cheli
+  Vendor: ''
+bom_schematic_markdown: "| Ref | Qnty | Value | Cmp name | Footprint | Description\
+  \ | Vendor | DNP | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| C1, C2\
+  \ | 2 | c6nf100 | c6nf100_electronic_capacitor_0603_100_nano_farad_1 | oomlout_oomp_part_footprints:c6nf100_electronic_capacitor_0603_100_nano_farad\
+  \ | Unpolarized capacitor |  |  | \n| J1 | 1 | h4psmra | h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle\
+  \ | oomlout_oomp_part_footprints:h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle\
+  \ | Generic connector, single row, 01x04, script generated |  |  | \n| R3 | 1 |\
+  \ r6o472 | r6o472_electronic_resistor_0603_4700_ohm | oomlout_oomp_part_footprints:r6o472_electronic_resistor_0603_4700_ohm\
+  \ | Resistor |  |  | \n| U1 | 1 | isn280 | isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280\
+  \ | oomlout_oomp_part_footprints:isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280\
+  \ | 3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V,\
+  \ LGA-8 |  |  | \n| U2 | 1 | insoic14wi2cheli | insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter\
+  \ | oomlout_oomp_part_footprints:insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter\
+  \ | Generic connector, single row, 01x14, script generated |  |  | \n"
+position_bottom:
+- '# Ref': J1
+  Package: h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
+  PosX: 0.0
+  PosY: 1.0
+  Rot: -90.0
+  Side: bottom
+  Val: h4psmra
+- '# Ref': U2
+  Package: insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  PosX: 0.0
+  PosY: 0.0
+  Rot: 180.0
+  Side: bottom
+  Val: insoic14wi2cheli
+position_bottom_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n\
+  | --- | --- | --- | --- | --- | --- | --- | \n| J1 | h4psmra | h4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle\
+  \ | 0.0 | 1.0 | -90.0 | bottom | \n| U2 | insoic14wi2cheli | insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter\
+  \ | 0.0 | 0.0 | 180.0 | bottom | \n"
+position_top:
+- '# Ref': C1
+  Package: c6nf100_electronic_capacitor_0603_100_nano_farad
+  PosX: 0.0
+  PosY: 2.5
+  Rot: 0.0
+  Side: top
+  Val: c6nf100
+- '# Ref': C2
+  Package: c6nf100_electronic_capacitor_0603_100_nano_farad
+  PosX: -3.0
+  PosY: 3.0
+  Rot: 90.0
+  Side: top
+  Val: c6nf100
+- '# Ref': R3
+  Package: r6o472_electronic_resistor_0603_4700_ohm
+  PosX: -2.0
+  PosY: -2.5
+  Rot: 180.0
+  Side: top
+  Val: r6o472
+- '# Ref': U1
+  Package: isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280
+  PosX: 0.0
+  PosY: 0.0
+  Rot: -90.0
+  Side: top
+  Val: isn280
+position_top_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n| ---\
+  \ | --- | --- | --- | --- | --- | --- | \n| C1 | c6nf100 | c6nf100_electronic_capacitor_0603_100_nano_farad\
+  \ | 0.0 | 2.5 | 0.0 | top | \n| C2 | c6nf100 | c6nf100_electronic_capacitor_0603_100_nano_farad\
+  \ | -3.0 | 3.0 | 90.0 | top | \n| R3 | r6o472 | r6o472_electronic_resistor_0603_4700_ohm\
+  \ | -2.0 | -2.5 | 180.0 | top | \n| U1 | isn280 | isn280_electronic_ic_lga_2_5_mm_x_2_5_mm_8_pin_sensor_pressure_temperature_bosch_bme280\
+  \ | 0.0 | 0.0 | -90.0 | top | \n"
