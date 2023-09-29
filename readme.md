@@ -1,9 +1,10 @@
-# 
-
-
-  
+# Oomp Electronic Project Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280
+Working on an I2C breakout board for the Bosch BME280 temperature, humidity and pressure sensor.
+##notes
+* none for now
+Working on an I2C breakout board for the Bosch BME280 temperature, humidity and pressure sensor.  
 * ibom github: [ibom github](kicad\current_version\working\bom\ibom.html)
-* ibom direct: [ibom direct](https://raw.githack.com/oomlout//main/kicad/current_version/working/bom/ibom.html)
+* ibom direct: [ibom direct](https://raw.githack.com/oomlout/oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280/main/kicad/current_version/working/bom/ibom.html)
 
 ## schematic  
 [![](kicad/current_version/working/working_schematic_600.png)](kicad/current_version/working/working_schematic.png)  

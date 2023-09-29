@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\GH\oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280\kicad\version_1\working\working.kicad_sch</source>
-    <date>29/09/2023 12:04:51</date>
+    <date>29/09/2023 12:41:05</date>
     <tool>Eeschema 7.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -220,7 +220,11 @@
       </pins>
     </libpart>
   </libparts>
-  <libraries/>
+  <libraries>
+    <library logical="oomlout_oomp_part_symbols">
+      <uri>C:/GH/oomlout_oomp_part_kicad_symbols/oomlout_oomp_part_symbols.kicad_sym</uri>
+    </library>
+  </libraries>
   <nets>
     <net code="1" name="+3V3">
       <node ref="C1" pin="1" pintype="passive"/>
